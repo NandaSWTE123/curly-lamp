@@ -4,8 +4,4 @@ Software developer
 GitHub, Inc. is a platform and cloud-based service for software development and version control, allowing developers to store and manage their code. Wikipedia
 Founders: Tom Preston-Werner, Chris Wanstrath, P. J. Hyett, Scott Chacon
 CEO: Thomas Dohmke (15 Nov 2021–)
-Founded: 2008, San Francisco, California, United States
-Headquarters: San Francisco, California, United States
-Subsidiary: npm, Inc.
-Employees: 2,500
-Parent: Microsoft
+Founde
