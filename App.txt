@@ -2,6 +2,3 @@ GitHub
 Software developer
 
 GitHub, Inc. is a platform and cloud-based service for software development and version control, allowing developers to store and manage their code. Wikipedia
-Founders: Tom Preston-Werner, Chris Wanstrath, P. J. Hyett, Scott Chacon
-CEO: Thomas Dohmke (15 Nov 2021–)
-Founde
